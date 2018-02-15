@@ -1,3 +1,5 @@
 Record Types,Mod File,EDID,Ref Count,Put FormID Here,Comments Here,Position Offset,Rotation Offset, Scale
 QUST,Morrowind_Compatiblity_Layer,mwDialogHelper,137,0x02074E9B,QUST,,,
 QUST,Morrowind_Compatiblity_Layer,mwScriptHelper,0,0x02079A80,QUST,,,
+GLOB,Morrowind_Compatiblity_Layer,DBAttack,,0x0207FE18,GLOB,,,
+GLOB,Morrowind_Compatiblity_Layer,PCRace,,0x02082FE5,GLOB,,,

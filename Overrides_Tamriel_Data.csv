@@ -1,0 +1,22 @@
+Record Type,Mod File,EDID,blank,FormID,Comments,Position Offset,Rotation Offset,Scale,Extra Tags
+scpt,Tamriel_Data,tuscglobaluaddanimalprodtopstrscript,,0x3010043,17113,,,,#QUEST
+scpt,Tamriel_Data,tusctestubufftrscript,,0x30100d9,17263,,,,#QUEST
+scpt,Tamriel_Data,tusctestumanagechartrscript,,0x30100da,17264,,,,#QUEST
+scpt,Tamriel_Data,tusctestumovemap1trscript,,0x30100db,17265,,,,#QUEST
+scpt,Tamriel_Data,tusctestumovemap2trscript,,0x30100dc,17266,,,,#QUEST
+scpt,Tamriel_Data,tusctestumovemap3trscript,,0x30100dd,17267,,,,#QUEST
+scpt,Tamriel_Data,tusctestumovemap4trscript,,0x30100de,17268,,,,#QUEST
+scpt,Tamriel_Data,tusctestumovemap5trscript,,0x30100df,17269,,,,#QUEST
+scpt,Tamriel_Data,tusctestumovemap6trscript,,0x30100e0,17270,,,,#QUEST
+scpt,Tamriel_Data,tusctestumovetrscript,,0x30100e1,17271,,,,#QUEST
+scpt,Tamriel_Data,tusctestupositiontrscript,,0x30100e2,17272,,,,#QUEST
+scpt,Tamriel_Data,tusctestuswimtrscript,,0x30100e4,17274,,,,#QUEST
+scpt,Tamriel_Data,tusctestutopicsmap1trscript,,0x30100e5,17275,,,,#QUEST
+scpt,Tamriel_Data,tusctestutopicsmap2trscript,,0x30100e6,17276,,,,#QUEST
+scpt,Tamriel_Data,tusctestutopicsmap3trscript,,0x30100e7,17277,,,,#QUEST
+scpt,Tamriel_Data,tusctestutopicsmap4trscript,,0x30100e8,17278,,,,#QUEST
+scpt,Tamriel_Data,tusctestutopicsmap5trscript,,0x30100e9,17279,,,,#QUEST
+scpt,Tamriel_Data,tusctestutopicsmap6trscript,,0x30100ea,17280,,,,#QUEST
+scpt,Tamriel_Data,tusctestutopicstr1script,,0x30100eb,17281,,,,#QUEST
+scpt,Tamriel_Data,tusctestutopicstr2script,,0x30100ec,17282,,,,#QUEST
+scpt,Tamriel_Data,tusctestutopicstr3script,,0x30100ed,17283,,,,#QUEST
