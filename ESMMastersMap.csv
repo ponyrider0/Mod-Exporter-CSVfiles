@@ -1,3 +1,6 @@
-ModName (without extension),Master Files (one per column)
-TR_Mainland,Tamriel_Data.esp
-TR_Preview,Tamriel_Data.esp
+ModName (without extension),Conversion Options (#),Master Files (one per column),
+Tamriel_Data,#armor #compile,,
+TR_Mainland,#armor #compile,Tamriel_Data.esp,
+TR_Preview,#armor #compile,Tamriel_Data.esp,
+Desert Region 2,#armor #compile,Ashes of Apocalypse.esp,
+TR_Travels,#armor #compile,Tamriel_Data.esp,TR_Mainland.esp
