@@ -134,3 +134,6 @@ short tr_m3_oe_common,206,31
 short tr_m3_oe_poor,207,31
 short tr_m3_oe_rich,208,40
 short tr_rethilslavem4,209,1
+short getcurrentweathervar,210,
+short getpchealthpercent,211,
+short gethello,212,

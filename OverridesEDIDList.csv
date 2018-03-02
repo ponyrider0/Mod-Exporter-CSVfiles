@@ -509,4 +509,4 @@ CLOT,TR_Preview,0expensiveUamuletU03,23,0x01F8EA35,,,,,
 SCPT,Tamriel_Data,OutsideBannerScript,69,0x020735B3,,,,,
 SCPT,Tamriel_Data,BedUStandardScript,43,0x020735B4,,,,,
 SCPT,Tamriel_Data,SignRotateScript,36,0x020735B5,,,,,
-scpt,Tamriel_Data,tuscglobalulooptrscript,,0x3010044,,,,,#quest #start
+scpt,Tamriel_Data,tuscglobalulooptrscript,,0x03010044,,,,,#quest #start
