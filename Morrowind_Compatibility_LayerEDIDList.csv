@@ -44,3 +44,5 @@ CELL,,MournholdVSGreatSBazaar,,0x0208C5BF,Dummy Cell for GetInCell
 CELL,,MournholdVSPlazaSBrindisiSDorom,,0x0208C5C0,Dummy Cell for GetInCell
 CELL,,MournholdVSRoyalSPalaceXSCourtyard,,0x0208C5C1,Dummy Cell for GetInCell
 SCPT,,mwDialogHelperFollowPCFunction,,0x0208F78C,
+SCPT,,mwDialogHelperAIWanderFunction,,0x02091072,
+SCPT,,mwStartConversationHelperFunction,,0x02092958,
