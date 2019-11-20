@@ -46,3 +46,5 @@ CELL,,MournholdVSRoyalSPalaceXSCourtyard,,0x0208C5C1,Dummy Cell for GetInCell
 SCPT,,mwDialogHelperFollowPCFunction,,0x0208F78C,
 SCPT,,mwDialogHelperAIWanderFunction,,0x02091072,
 SCPT,,mwStartConversationHelperFunction,,0x02092958,
+SCPT,,mwDialogHelperFinalizeFunc,,0x0209423E,
+SCPT,,mwGetSoundPlaying,,0x0209423F,
